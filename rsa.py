@@ -39,7 +39,7 @@ while d % 1 !=0:
 
 d = int(d)
 
-#calculating the ecnrypted and decrypted message
+#calculating the encrypted and decrypted message
 encrypted = pow(m, e, x)
 decrypted = pow(encrypted, d, x)
 
