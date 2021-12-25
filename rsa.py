@@ -1,4 +1,4 @@
-#Brendan Selewski bms4yzc 11/12/2021
+#Brendan Selewski 11/12/2021
 
 #sympy includes functions deal with prime numbers
 
