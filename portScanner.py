@@ -1,4 +1,4 @@
-#Brendan Selewski bms4yzc 10/8/2021
+#Brendan Selewski 10/8/2021
 import socket
 import sys
 from datetime import datetime
